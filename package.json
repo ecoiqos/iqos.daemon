@@ -12,5 +12,17 @@
     }
   ],
   "license": "MIT",
-  "private": false
+  "private": false,
+  "scripts": {
+    "start": "node .",
+    "dev": "cross-env DEBUG='*' nodemon ."
+  },
+  "devDependencies": {
+    "cross-env": "^6.0.3",
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "debug": "^4.1.1",
+    "webbluetooth": "^1.2.0"
+  }
 }
