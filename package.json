@@ -15,7 +15,7 @@
   "private": false,
   "scripts": {
     "start": "node .",
-    "dev": "cross-env DEBUG='iqos*' nodemon ."
+    "dev": "cross-env DEBUG='*' nodemon ."
   },
   "devDependencies": {
     "cross-env": "^6.0.3",
