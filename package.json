@@ -1,0 +1,16 @@
+{
+  "name": "@ecoiqos/daemon",
+  "version": "0.0.0",
+  "description": "Node.js Based, iQOS Device Daemon to communicate with it using Bluetooth Low Energy.",
+  "main": "index.js",
+  "repository": "git@github.com:ecoiqos/iqos.daemon.git",
+  "author": "Misha Marinenko <0x77dev@protonmail.com>",
+  "contributors": [
+    {
+      "name": "iQOS Ecosystem Contributors",
+      "url": "https://github.com/ecoiqos/iqos.daemon/graphs/contributors"
+    }
+  ],
+  "license": "MIT",
+  "private": false
+}
