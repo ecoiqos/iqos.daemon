@@ -1,6 +1,6 @@
 # @ecoiqos/daemon
 ![GitHub stars](https://img.shields.io/github/stars/ecoiqos/iqos.daemon?style=for-the-badge)
-![Looking for contributos](https://img.shields.io/badge/LOOKING%20FOR-CONTRIBUTORS-blue)
+[![Looking for contributos](https://img.shields.io/badge/LOOKING%20FOR-CONTRIBUTORS-blue?style=for-the-badge)](https://github.com/ecoiqos/iqos.daemon/issues/new?assignees=0x77dev&labels=IWantToTheTeam&template=i-want-to-be-an-contributor.md&title=I+Want+To+Be+An+Contributor)
 
 ![Node Testdrive CI Badge](https://github.com/ecoiqos/iqos.daemon/workflows/Node%20Testdrive/badge.svg)
 ![GitHub issues](https://img.shields.io/github/issues/ecoiqos/iqos.daemon)
